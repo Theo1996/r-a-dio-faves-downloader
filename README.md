@@ -1,2 +1,5 @@
 # r-a-dio-faves-downloader
-dls all faves of a user from r-a-d.io
+Tampermonkey userscript
+Downloads all faves of a user from [r-a-d.io](https://r-a-d.io/faves)
+
+
